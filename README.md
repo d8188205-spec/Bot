@@ -1,0 +1,2 @@
+# Bot
+   python bot.py
